@@ -19,3 +19,14 @@ Yüklemenin başarılı olup olmadığını anlamak için komut satırına şu k
 > cv2.__version__
 
 Eğer sürüm sayısı yazıyorsan başarılı bir şekilde gerçekleşmiştir. Opencv ile görüntü işleme derslerini denemeye başlayabilirsiniz.
+### NELER ÖĞRENECEĞİM? :key:
+
+- OpenCV Kurulumu
+- Görüntü ve Video İşlemleri
+- Kare,Daire,Dikdörtgen ve hat(düz çizgi) Çizme İşlemleri 
+- Çember algılama
+- Yakında Eklenecek.(19.07.2020)
+- Yakında Eklenecek.(19.07.2020)
+- Yakında Eklenecek.(19.07.2020)
+- Yakında Eklenecek.(19.07.2020)
+- Yakında Eklenecek.(19.07.2020)
