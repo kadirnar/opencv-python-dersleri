@@ -11,8 +11,11 @@ Anaconda kullananlar için kurulum kodu:
 > conda install -c conda-forge opencv
 
 Yüklemenin başarılı olup olmadığını anlamak için komut satırına şu kodları yazmanız yeterlidir.
+
 > python
+
 > import cv2
+
 > cv2.__version__
 
 Eğer sürüm sayısı yazıyorsan başarılı bir şekilde gerçekleşmiştir.
