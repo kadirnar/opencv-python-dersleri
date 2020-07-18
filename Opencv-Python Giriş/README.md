@@ -18,4 +18,4 @@ Yüklemenin başarılı olup olmadığını anlamak için komut satırına şu k
 
 > cv2.__version__
 
-Eğer sürüm sayısı yazıyorsan başarılı bir şekilde gerçekleşmiştir.
+Eğer sürüm sayısı yazıyorsan başarılı bir şekilde gerçekleşmiştir. Opencv ile görüntü işleme derslerini denemeye başlayabilirsiniz.
