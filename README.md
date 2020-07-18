@@ -1,5 +1,4 @@
 # Opencv ile Görüntü İşleme:heavy_check_mark:
-----
 
 ### NELER ÖĞRENECEĞİM? :key:
 
