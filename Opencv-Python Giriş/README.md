@@ -1,0 +1,1 @@
+Herkese merhabalar, python programlama dilini kullanarak opencv kütüphanesinde görüntü işleme işlemlerini yapacağız. Bunun için ilk olarak python ve opencv kurulumları yapmanız gerekiyor. Kodları ben anaconda(spyder) üzerinde yazacağım. Sizlere de spyder aracını tavsiye ederim.
