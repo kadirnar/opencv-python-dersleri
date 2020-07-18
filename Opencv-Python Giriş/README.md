@@ -4,14 +4,14 @@ Herkese merhabalar, python programlama dilini kullanarak opencv kütüphanesinde
 
 Pythonın kendi idesi için kurulum kodu:
 
->> pip install opencv-python
+> pip install opencv-python
 Anaconda kullananlar için kurulum kodu:
 
->> conda install -c conda-forge opencv
+> conda install -c conda-forge opencv
 
 Yüklemenin başarılı olup olmadığını anlamak için komut satırına şu kodları yazmanız yeterlidir.
->> python
->> import cv2
->> cv2.__version__
+> python
+> import cv2
+> cv2.__version__
 
 Eğer sürüm sayısı yazıyorsan başarılı bir şekilde gerçekleşmiştir.
